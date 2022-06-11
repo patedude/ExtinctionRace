@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Apple
+  - Meat
+  - Goal
+  - Spike
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Tausta
+    uniqueID: 3738104543
+    locked: 0
+  - name: "V\xE4ri1"
+    uniqueID: 312604805
+    locked: 0
+  - name: "V\xE4ri2"
+    uniqueID: 2988443571
+    locked: 0
+  - name: "V\xE4ri3"
+    uniqueID: 1570905579
+    locked: 0
+  - name: "V\xE4ri4"
+    uniqueID: 591922501
+    locked: 0
+  - name: Tiles
+    uniqueID: 1979709517
+    locked: 0
+  - name: Hahmo items
+    uniqueID: 1726057675
+    locked: 0
