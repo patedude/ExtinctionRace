@@ -8,13 +8,16 @@ Katso demo klikkaamalla alla olevaa kuvaa
 
 ### Assetit
 
-* [Taustamusiikki](https://opengameart.org/content/loop-house-in-a-forest)
-* [Hahmo](https://opengameart.org/content/pink-flappy-bird-sprite-sheets)
+* [Taustamusiikki](https://opengameart.org/content/jump-and-run-tropical-mix)
+* [Äänitehosteet](https://opengameart.org/content/cartoony-jump-and-bounce)
+* [Hahmo](https://arks.itch.io/dino-characters)
 * Tausta
-  * [Puut](https://opengameart.org/content/gnarly-tree)
-  * [Pilvet](https://opengameart.org/content/2d-clouds-pack)
-  * [Metsä](https://thewisehedgehog.itch.io/tmb)
-* [Fontti](https://www.1001fonts.com/captainswabby-font.html)
+  * [Viidakko](https://jesse-m.itch.io/jungle-pack)
+  * [Piikit](https://opengameart.org/content/bevouliin-free-game-obstacle-spikes)
+  * [OMENA](https://thewisehedgehog.itch.io/tmb)
+* Fontit
+  * [Fontti1](https://www.1001fonts.com/piedra-font.html)
+  * [Fontti2](https://www.1001fonts.com/yoster-island-font.html)
 
 #### Sovellukset
 * Unity
