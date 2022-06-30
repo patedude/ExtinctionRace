@@ -17,7 +17,12 @@ Katso demo klikkaamalla alla olevaa kuvaa
 * [Fontti](https://www.1001fonts.com/captainswabby-font.html)
 
 #### Sovellukset
-Emulaattorina käytetty BlueStacks 5
+* Unity
+* Visual Studio
+* OBS Studio
+* VLC Media player
+* Windowsin videoeditori
+* Emulaattorina käytetty BlueStacks 5
 
 
 
