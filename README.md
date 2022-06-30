@@ -1,28 +1,26 @@
-# ExtinctionRace
+# Extinction Race
 
-Extinction Race on tehty osana AMK insinööriopintoja vuonna 2019. Peli on toteututtu Unityllä.
+Fatty Bird on tehty osana AMK insinööriopintoja vuonna 2019. Peli on Unityllä toteututtu 2D-mobiilipeli. Pelin tavoite on hyppiä maassa olevien piikkien yli ja kerätä 10 omenaa, jolloin aktivoituu "boostinappi" jolla pääsee pois peliruudusta, jolloin peli loppuu. Peli on endless-runner-tyylinen.
 
-Lähteet
+Katso demo klikkaamalla alla olevaa kuvaa
 
-https://unity3d.com/learn/tutorials/topics/2d-game-creation/scrolling-repeating-backgrounds?playlist=17093
+[![Alt text](https://img.youtube.com/vi/cm7A2GqdGps/0.jpg)](https://www.youtube.com/watch?v=cm7A2GqdGps)
 
-https://unity3d.com/learn/tutorials/topics/2d-game-creation/bird-script
+### Assetit
 
-https://unity3d.com/learn/tutorials/topics/2d-game-creation/adding-game-controller?playlist=17093
+* [Taustamusiikki](https://opengameart.org/content/loop-house-in-a-forest)
+* [Hahmo](https://opengameart.org/content/pink-flappy-bird-sprite-sheets)
+* Tausta
+  * [Puut](https://opengameart.org/content/gnarly-tree)
+  * [Pilvet](https://opengameart.org/content/2d-clouds-pack)
+  * [Metsä](https://thewisehedgehog.itch.io/tmb)
+* [Fontti](https://www.1001fonts.com/captainswabby-font.html)
 
-https://answers.unity.com/questions/878382/audio-or-music-to-continue-playing-between-scene.html
+#### Sovellukset
+Emulaattorina käytetty BlueStacks 5
 
-https://fractalpixels.com/devblog/unity-2D-progress-bars
 
-https://www.youtube.com/watch?v=bATrmV05FEs
 
-https://www.youtube.com/watch?v=DNLAuV-d4sA
-
-https://www.youtube.com/watch?v=RqomLumqwCk
-
-https://www.youtube.com/watch?v=GrQalFLtQT4
-
-https://www.geekshangout.com/unity-101-playing-sound-ui-button-pressed/
 
 Assets
 
