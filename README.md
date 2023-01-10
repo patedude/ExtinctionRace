@@ -14,7 +14,7 @@ Katso demo klikkaamalla alla olevaa kuvaa
 * Tausta
   * [Viidakko](https://jesse-m.itch.io/jungle-pack)
   * [Piikit](https://opengameart.org/content/bevouliin-free-game-obstacle-spikes)
-  * [OMENA](https://thewisehedgehog.itch.io/tmb)
+  * Omenan linkkiä/tekijää en näin 3 vuoden jälkeen löytänyt
 * Fontit
   * [Fontti1](https://www.1001fonts.com/piedra-font.html)
   * [Fontti2](https://www.1001fonts.com/yoster-island-font.html)
@@ -26,22 +26,3 @@ Katso demo klikkaamalla alla olevaa kuvaa
 * VLC Media player
 * Windowsin videoeditori
 * Emulaattorina käytetty BlueStacks 5
-
-
-
-
-Assets
-
-https://jesse-m.itch.io/jungle-pack
-
-https://arks.itch.io/dino-characters
-
-https://www.1001fonts.com/piedra-font.html
-
-https://www.1001fonts.com/yoster-island-font.html
-
-https://opengameart.org/content/jump-and-run-tropical-mix
-
-https://opengameart.org/content/cartoony-jump-and-bounce
-
-https://opengameart.org/content/bevouliin-free-game-obstacle-spikes
